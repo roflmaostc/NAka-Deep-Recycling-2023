@@ -1,0 +1,4 @@
+Plastic_solid_waste_identification_system_based_on_near_infrared_spectroscopy_in_combination_with_support_vector_machine
+
+https://www.sciencedirect.com/science/article/pii/S2542504818300113
+
